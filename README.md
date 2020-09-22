@@ -4,3 +4,9 @@ This project uses OpenCV image processing to classify the types of coins within 
 
 Here is an example: 
 ![image](https://user-images.githubusercontent.com/70921858/93930288-1ea70d80-fceb-11ea-8fc1-4c7407ee5fdb.png)
+
+Given the above input image, the code produces this image:
+
+![image](https://user-images.githubusercontent.com/70921858/93930392-4b5b2500-fceb-11ea-99b8-4b3b84b09cf1.png)
+
+
