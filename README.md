@@ -9,4 +9,5 @@ Given the above input image, the code produces this image:
 
 ![image](https://user-images.githubusercontent.com/70921858/93930392-4b5b2500-fceb-11ea-99b8-4b3b84b09cf1.png)
 
-
+It also prints out the total value of the money like so: 
+![image](https://user-images.githubusercontent.com/70921858/93931640-1354e180-fced-11ea-85f6-91255aab0d1f.png)
